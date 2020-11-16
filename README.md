@@ -1,6 +1,7 @@
 # babynames
 
 Building :)
+Load Google JSON for when ready to point to Api w/ Key
 
 ## Getting Started
 
